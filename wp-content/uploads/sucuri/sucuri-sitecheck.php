@@ -1,0 +1,7 @@
+<?php
+// datastore=sitecheck;
+// created_on=1430765714;
+// updated_on=1430765726;
+exit(0);
+?>
+scan_results:{"SCAN":{"SITE":["http:\/\/deepakumar.local"],"DOMAIN":["deepakumar.local"],"IP":["deepakumar.local"]},"SYSTEM":{"ERROR":["Unable to properly scan your site. Unable to connect."]},"BLACKLIST":{"INFO":[["Domain clean by Google Safe Browsing: deepakumar.local","http:\/\/safebrowsing.clients.google.com\/safebrowsing\/diagnostic?site=deepakumar.local"],["Domain clean by Norton Safe Web: deepakumar.local","http:\/\/safeweb.norton.com\/report\/show?url=deepakumar.local"],["Domain clean on Phish tank: deepakumar.local","http:\/\/www.phishtank.com\/"],["Domain clean on the Opera browser: deepakumar.local","http:\/\/opera.com\/"],["Domain clean by SiteAdvisor: deepakumar.local","http:\/\/www.siteadvisor.com\/sites\/deepakumar.local"],["Domain clean by the Sucuri Malware Labs blacklist: deepakumar.local","http:\/\/labs.sucuri.net\/?blacklist=deepakumar.local"],["Domain clean on SpamHaus DBL: deepakumar.local","http:\/\/www.spamhaus.org\/query\/domain\/deepakumar.local"],["Domain clean by Bitdefender: deepakumar.local","http:\/\/trafficlight.bitdefender.com\/info?url=deepakumar.local"],["Domain clean on Yandex (via Sophos): deepakumar.local","http:\/\/www.yandex.com\/infected?url=deepakumar.local&amp;l10n=en"],["Domain clean by ESET: deepakumar.local","http:\/\/labs.sucuri.net\/?eset"]]}}
